@@ -1,1 +1,1 @@
-# ImageAnalysis_using_CNN
+# Image Classification Using Convolutional Neural Network
